@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore data (you can adjust based on your usage)
+data/
+
+# Ignore Jupyter and temp files
+*.ipynb_checkpoints
+*.log
+*.tmp
+*.DS_Store
